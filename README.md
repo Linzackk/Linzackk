@@ -19,21 +19,21 @@ Sou apaixonado por tecnologia, curioso por natureza e sempre em busca de aprende
 
 ### 🧩 Projetos em Destaque
 
-#### 🎓 [Sistema Acadêmico](https://github.com/isaacmedeiros/sistema-academico)
+#### 🎓 [Sistema Acadêmico](https://github.com/Linzackk/PIM-2oSemestre-Unip)
 Sistema desenvolvido em **Python**, aplicando **POO** e **SQLite** para gerenciar alunos, professores e administrativos de uma instituição de ensino.
 
-#### 🌡️ [Conversor de Temperaturas](https://github.com/isaacmedeiros/conversor-de-temperaturas)
+#### 🌡️ [Conversor de Temperaturas](https://github.com/Linzackk/Conversor-Temperaturas)
 Aplicação web simples e funcional criada com **HTML**, **CSS** e **JavaScript** para converter temperaturas entre Celsius, Fahrenheit e Kelvin.
 
-#### 🌐 [Site Responsivo - Curso em Vídeo](https://github.com/isaacmedeiros/site-responsivo)
+#### 🌐 [Site Responsivo - Curso em Vídeo](https://github.com/Linzackk/Html-Mod2-CEV)
 Projeto desenvolvido durante o **Curso em Vídeo**, com foco em **design responsivo** e boas práticas de estruturação em HTML e CSS.
 
 ---
 
 
 ### 📫 Onde me encontrar
-- 💼 [LinkedIn] (https://www.linkedin.com/in/isaac-medeiros-330465312)  
-- 🧑‍💻 [GitHub] (https://github.com/Linzackk)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/isaac-medeiros-330465312)  
+- 🧑‍💻 [GitHub](https://github.com/Linzackk)  
 - 📧 **isaac2005medeiros@gmail.com**
 
 ---
