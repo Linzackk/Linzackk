@@ -32,8 +32,8 @@ Projeto desenvolvido durante o **Curso em Vídeo**, com foco em **design respons
 
 
 ### 📫 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/isaac-medeiros/](https://www.linkedin.com/in/isaac-medeiros-330465312)  
-- 🧑‍💻 [GitHub](https://github.com/Linzackk)  
+- 💼 [LinkedIn] (https://www.linkedin.com/in/isaac-medeiros-330465312)  
+- 🧑‍💻 [GitHub] (https://github.com/Linzackk)  
 - 📧 **isaac2005medeiros@gmail.com**
 
 ---
