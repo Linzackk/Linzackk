@@ -28,7 +28,7 @@ Aplicação web simples e funcional criada com **HTML**, **CSS** e **JavaScript*
 #### 🌐 [Site Responsivo - Curso em Vídeo](https://github.com/Linzackk/Html-Mod2-CEV)
 Projeto desenvolvido durante o **Curso em Vídeo**, com foco em **design responsivo** e boas práticas de estruturação em HTML e CSS.
 
-### 🏋️‍♀️ [Site de Academia Online (em andamento...)](https://github.com/Linzackk/siteAcademia)
+#### 🏋️‍♀️ [Site de Academia Online (em andamento...)](https://github.com/Linzackk/siteAcademia)
 Um projeto pessoal com o objetivo de aprender o Framework Django em Python.
 
 ---
