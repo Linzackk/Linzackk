@@ -25,8 +25,8 @@ Sistema desenvolvido em **Python**, aplicando **POO** e **SQLite** para gerencia
 #### [Conversor de Temperaturas](https://github.com/Linzackk/Conversor-Temperaturas)
 Aplicação web simples e funcional criada com **HTML**, **CSS** e **JavaScript** para converter temperaturas entre Celsius, Fahrenheit e Kelvin.
 
-#### [Site Responsivo - Curso em Vídeo](https://github.com/Linzackk/Html-Mod2-CEV)
-Projeto desenvolvido durante o **Curso em Vídeo**, com foco em **design responsivo** e boas práticas de estruturação em HTML e CSS.
+#### [PokeInfo](https://github.com/Linzackk/pokeInfo) (em andamento ...)
+Sistema simples onde criei uma API usando **Node.js** e **Express** para consumo no Front-End para informações sobre pokémons salvos em **PostgreSQL**.
 
 #### [Site de Academia Online](https://github.com/Linzackk/siteAcademia)
 Projeto pessoal com o objetivo de desenvolver habilidades no Framework Django em Python.
