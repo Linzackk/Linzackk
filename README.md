@@ -1,6 +1,6 @@
 # Olá, sou Isaac de Medeiros!
 
-Estudante de **Análise e Desenvolvimento de Sistemas (UNIP)** com foco em **desenvolvimento full-stack**, principalmente no **Backend**.  
+Estudante de **Análise e Desenvolvimento de Sistemas (UNIP)** com foco em **desenvolvimento back-end**
 Sou apaixonado por tecnologia, curioso por natureza e sempre em busca de aprender algo novo todos os dias.
 
 ---
