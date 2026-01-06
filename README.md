@@ -21,8 +21,8 @@ Sou apaixonado por tecnologia, curioso por natureza e sempre em busca de aprende
 #### [Sistema Acadêmico](https://github.com/Linzackk/PIM-2oSemestre-Unip)
 Sistema desenvolvido em **Python**, aplicando **POO** e **SQLite** para gerenciar alunos, professores e administrativos de uma instituição de ensino.
 
-#### [Conversor de Temperaturas](https://github.com/Linzackk/Conversor-Temperaturas)
-Aplicação web simples e funcional criada com **HTML**, **CSS** e **JavaScript** para converter temperaturas entre Celsius, Fahrenheit e Kelvin.
+#### [API de Monitoramento de Serviços](https://github.com/Linzackk/monitoramentoServicos) (em andamento ...)
+Uma API desenvolvida em **Node.js** e **Express** para verificar e salvar informações de serviços se estão ONLINE, OFFLINE ou INSTÁVEIS.
 
 #### [PokeInfo](https://github.com/Linzackk/pokeInfo)
 Sistema simples onde criei uma API usando **Node.js** e **Express** para consumo no Front-End para informações sobre pokémons salvos em **PostgreSQL**.
