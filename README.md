@@ -21,7 +21,7 @@ Sou apaixonado por tecnologia, curioso por natureza e sempre em busca de aprende
 #### [Sistema Acadêmico](https://github.com/Linzackk/PIM-2oSemestre-Unip)
 Sistema desenvolvido em **Python**, aplicando **POO** e **SQLite** para gerenciar alunos, professores e administrativos de uma instituição de ensino.
 
-#### [API de Monitoramento de Serviços](https://github.com/Linzackk/monitoramentoServicos) (em andamento ...)
+#### [API de Monitoramento de Serviços](https://github.com/Linzackk/monitoramentoServicos)
 Uma API desenvolvida em **Node.js** e **Express** para verificar e salvar informações de serviços se estão ONLINE, OFFLINE ou INSTÁVEIS.
 
 #### [PokeInfo](https://github.com/Linzackk/pokeInfo)
