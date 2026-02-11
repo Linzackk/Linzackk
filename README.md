@@ -1,7 +1,7 @@
 # Olá, eu sou Isaac de Medeiros!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (UNIP)** com foco em **Desenvolvimento Back-end**.  
-Tenho experiência prática com projetos em **Node.js**, APIs REST e integração com bancos de dados, além de estar estudando **C# para desenvolvimento web**.
+Sou **Desenvolvedor Back-End** e estudante de **Análise e Desenvolvimento de Sistemas**.  
+Tenho experiência prática com projetos em Node.js, APIs REST e integração com bancos de dados, além de estar estudando **C# para desenvolvimento web**.
 
 Sou curioso por natureza, gosto de entender como as coisas funcionam por trás dos sistemas e estou sempre buscando evoluir tecnicamente.
 
@@ -11,11 +11,11 @@ Objetivo: conquistar uma oportunidade como **Desenvolvedor Júnior Back-end**.
 
 ## Quem sou eu
 - Estudante de Análise e Desenvolvimento de Sistemas na UNIP  
-- Focado em desenvolvimento Back-end  
+- Desenvolvedor Back-end  
 - Experiência prática com Node.js e criação de APIs REST  
-- Estudando C# com foco em desenvolvimento web  
+- Estudando C#  para desenvolvimento web  
 - Conhecimentos em React e noções de Front-end  
-- Interesse em boas práticas, arquitetura e segurança  
+- Práticas em boas práticas, arquitetura e segurança  
 
 ---
 
@@ -29,7 +29,6 @@ Objetivo: conquistar uma oportunidade como **Desenvolvedor Júnior Back-end**.
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CSharp](https://img.shields.io/badge/csharp-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
